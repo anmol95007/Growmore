@@ -87,6 +87,10 @@ h6 {
   transition: all 0.4s;
 }
 
+.counts .row h4{
+  color: #4b7dab;
+}
+
 .back-to-top i {
   font-size: 28px;
   color: #fff;
@@ -546,6 +550,10 @@ h6 {
 /*--------------------------------------------------------------
 # Sections General
 --------------------------------------------------------------*/
+
+.conatct-margin{
+  margin-top: 11rem;
+}
 section {
   padding: 5rem 0;
   overflow: hidden;
