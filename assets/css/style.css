@@ -24,6 +24,10 @@ a:hover {
   text-decoration: none;
 }
 
+.active {
+  color:#1977cc;
+}
+
 h1,
 h2,
 h3,
@@ -791,6 +795,12 @@ section {
 
 .about .video-box {
   background: url("../img/about.jpg") center center no-repeat;
+  background-size: cover;
+  min-height: 300px;
+}
+
+.hr .video-box {
+  background: url("../img/hr_policies.jpg") center center no-repeat;
   background-size: cover;
   min-height: 300px;
 }

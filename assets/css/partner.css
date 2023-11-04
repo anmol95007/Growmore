@@ -794,6 +794,18 @@ body {
     background-size: cover;
     min-height: 300px;
   }
+
+  .business .video-box {
+    background: url("../img/business.jpg") center center no-repeat;
+    background-size: cover;
+    min-height: 300px;
+  }
+
+  .team .video-box {
+    background: url("../img/team.jpg") center center no-repeat;
+    background-size: cover;
+    min-height: 300px;
+  }
   
   .about .play-btn {
     width: 94px;

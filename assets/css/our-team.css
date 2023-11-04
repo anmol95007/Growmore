@@ -467,7 +467,7 @@ h6 {
 #hero {
   width: 100%;
   height: 90vh;
-  background: url("../img/hero-bg.jpg") top center;
+  background: url("../img/our-team.jpg") top center;
   background-size: cover;
   margin-bottom: -200px;
 }
@@ -794,7 +794,13 @@ section {
 }
 
 .about .video-box {
-  background: url("../img/about.jpg") center center no-repeat;
+  background: url("../img/hr_policies.jpg") center center no-repeat;
+  background-size: cover;
+  min-height: 300px;
+}
+
+.human .video-box {
+  background: url("../img/human.jpg") center center no-repeat;
   background-size: cover;
   min-height: 300px;
 }
